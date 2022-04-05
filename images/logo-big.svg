@@ -14,7 +14,7 @@
    viewBox="0 0 16.933332 16.933332"
    version="1.1"
    id="svg3886"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="logo-big.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <defs
      id="defs3880" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
